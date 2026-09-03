@@ -1,0 +1,56 @@
+about:
+  description: write licenses to stdout
+  license: MIT
+  homepage: 
+  head: a7c7479
+  archived: false
+  latestVersion: v2.1.0
+  collectedAt: 2026-09-03T04:57:10Z
+timeline:
+  created: 2019-09-19
+  lastCommit: 2023-01-30
+  lastRelease: 2019-11-23
+popularity:
+  star: 207
+  watcher: 4
+  fork: 12
+  release: 5
+  contributor: 4
+  pullRequest: 80
+  issue: 10
+language:
+  Rust: 50999
+totalLine: 50999
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-08
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
