@@ -7,7 +7,7 @@ about:
   head: a7c7479
   archived: false
   latestVersion: v2.1.0
-  collectedAt: 2026-09-04T19:57:43Z
+  collectedAt: 2026-09-04T20:49:05Z
 timeline:
   created: 2019-09-19
   lastCommit: 2023-01-30
@@ -80,6 +80,39 @@ total:
   openIssue: 2
   commit: 98
 ---
+path: /home/runner/.x-repo/github.com/raftario/licensor
+collectedAt: 2026-09-04T20:49:05Z
+loc:
+  Rust:
+    code: 1041
+    comments: 1
+    blanks: 140
+    files: 7
+  Json:
+    code: 242
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 75
+    comments: 0
+    blanks: 6
+    files: 4
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 87
+    blanks: 48
+    files: 2
+total:
+  code: 1359
+  comments: 102
+  blanks: 197
+  files: 18
 ---
 date: "2026-08-24"
 repo:
