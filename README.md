@@ -22,7 +22,14 @@ x install licensor
 - **Latest**: `v2.1.0` (2019-11-23)
 - **Last commit**: 2023-01-30
 - **Assets in release**: 3
-- **Published**: 2019-11-23T23:29:25Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [Linux.zip](https://github.com/raftario/licensor/releases/download/v2.1.0/Linux.zip) | 464.6 KiB | `other` |
+| [macOS.zip](https://github.com/raftario/licensor/releases/download/v2.1.0/macOS.zip) | 437.9 KiB | `native/darwin/x64` |
+| [Windows.zip](https://github.com/raftario/licensor/releases/download/v2.1.0/Windows.zip) | 423.5 KiB | `native/win/x64` |
 
 ## Popularity
 
@@ -67,8 +74,8 @@ Lowest-scoring checks:
 Install metadata for licensor lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `licensor` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/licensor.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/licensor.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:42:51Z._
