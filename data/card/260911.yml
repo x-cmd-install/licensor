@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.0"
   latestRelease: "v2.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:43:09Z
+  collectedAt: 2026-09-11T20:14:08Z
 timeline:
   created: 2019-09-19
   lastCommit: 2023-01-30
@@ -83,7 +83,7 @@ total:
   commit: 98
 ---
 path: /home/runner/.x-repo/github.com/raftario/licensor
-collectedAt: 2026-09-11T04:43:11Z
+collectedAt: 2026-09-11T20:14:08Z
 loc:
   Rust:
     code: 1041
