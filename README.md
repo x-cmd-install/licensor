@@ -30,9 +30,9 @@ Overall score: **2.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/25 approved changesets -- score normalized to 1
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 207 · **Forks**: 12 · **Open issues**: 10 · **Contributors**: 4
+- **Stars**: 206 · **Forks**: 12 · **Open issues**: 10 · **Contributors**: 4
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for licensor lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:56:55Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:48:07Z._
