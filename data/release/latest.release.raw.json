@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 475740,
       "digest": null,
-      "download_count": 111,
+      "download_count": 113,
       "created_at": "2019-11-23T23:29:07Z",
       "updated_at": "2019-11-23T23:29:16Z",
       "browser_download_url": "https://github.com/raftario/licensor/releases/download/v2.1.0/Linux.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 448435,
       "digest": null,
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2019-11-23T23:29:08Z",
       "updated_at": "2019-11-23T23:29:20Z",
       "browser_download_url": "https://github.com/raftario/licensor/releases/download/v2.1.0/macOS.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 433613,
       "digest": null,
-      "download_count": 57,
+      "download_count": 58,
       "created_at": "2019-11-23T23:29:08Z",
       "updated_at": "2019-11-23T23:29:23Z",
       "browser_download_url": "https://github.com/raftario/licensor/releases/download/v2.1.0/Windows.zip"
